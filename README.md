@@ -3,7 +3,7 @@ Projects and data related to DataCamp.com
 
 # Content
 - Project 1: TV, Halftime Shows, and the Big Game
-- Project 2: THE ANDROID APP MARKET ON GOOGLE PLAY
+- Project 2: The Android App Market on Google Play
 
 # About Me
 Muhammad Raza Khalid Saleemi
